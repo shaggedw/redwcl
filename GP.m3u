@@ -1,0 +1,16 @@
+#EXTM3U
+#EXTINF:-1,GOLPERU HD
+http://168.121.46.90:4000/play/a06g/index.m3u8
+#EXTINF:-1,GOLPERU HD
+http://190.43.92.215:8000/play/a0oq/index.m3u8
+#EXTINF:-1,GOLPERU HD
+http://147.135.124.6:26649/play/a04y/index.m3u8
+#EXTINF:-1,GOLPERU HD
+http://200.24.134.18:9000/play/a0p2/index.m3u8
+#EXTINF:-1,GOLPERU HD
+http://200.119.222.198:25470/play/a01d/index.m3u8
+#EXTINF:-1,GOLPERU HD
+http://45.189.118.12:8000/play/a07i/index.m3u8
+#EXTINF:-1,GOLPERU HD
+http://190.43.92.12:8500/play/a0h3/index.m3u8
+
