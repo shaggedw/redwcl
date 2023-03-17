@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1,DIRECTV SPORTS
+http://45.7.135.243:4000/play/a05x/index.m3u8
+#EXTINF:-1,DIRECTV SPORTS
+http://168.228.194.32:58001/play/a0ba/index.m3u8
+#EXTINF:-1,DIRECTV SPORTS
+http://168.228.194.32:58001/play/a0bb/index.m3u8
